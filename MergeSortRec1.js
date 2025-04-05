@@ -1,4 +1,4 @@
-function mergeSortRec(arr) {
+function mergeSortReccc(arr) {
     const len = arr.length;
     
     if (len <= 1) return arr;
